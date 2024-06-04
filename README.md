@@ -1,6 +1,6 @@
 # Armello-Combat-Calculator  
 A utility that uses Monte Carlo Simulation to approximate the odds of player combat in the game of Armello  
-Download link:  [latest release]([https://github.com/Tsidia/Armello-Combat-Calculator/releases/tag/1.0.0)](https://github.com/Tsidia/Armello-Combat-Calculator/releases/tag/1.1.0).
+Download link:  [latest release](https://github.com/Tsidia/Armello-Combat-Calculator/releases/tag/1.1.0).
 
 Player A is you  
 Player B is the enemy you want to fight  
