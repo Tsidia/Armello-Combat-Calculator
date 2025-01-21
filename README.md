@@ -1,6 +1,6 @@
 # Armello-Combat-Calculator  
 A utility that uses Monte Carlo Simulation to approximate the odds of player combat in the game of Armello  
-Download link:  [latest release](https://github.com/Tsidia/Armello-Combat-Calculator/releases/tag/1.1.0).
+Download link:  [latest release](https://github.com/Tsidia/Armello-Combat-Calculator/releases/tag/1.2.0).
   
 Number of hit dice is how many dice you're going to roll (usually determined by your fight stat)  
 Health points is the amount of health you have when entering combat (Check your body stat for details)  
