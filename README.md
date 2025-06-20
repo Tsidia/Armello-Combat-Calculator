@@ -10,10 +10,10 @@ Initial defends is how many shield symbols you are guarenteed to obtain before y
   
 Only use the king checkbox when fighting the king. Their items have a significant impact on calculations and will skew the odds in king's favour  
 
-![image](https://github.com/user-attachments/assets/472fa83e-ff2d-4819-8c24-9f76fea31c3f)
+![image](https://github.com/user-attachments/assets/1ca80c69-d63a-4b0f-85a7-1e5203140d8f)
 
 ![image](https://github.com/user-attachments/assets/f9d6e2d9-01f7-4d02-91a8-6f65fa6d0512)
 
-![image](https://github.com/user-attachments/assets/e3919fe7-e1ec-4de4-a6ee-20ad85e3533a)
+![image](https://github.com/user-attachments/assets/43d550cc-1f18-42f2-9ffd-6d9d6c9cc3c0)
 
 ![image](https://github.com/user-attachments/assets/f5f41f84-8da8-42fb-ba6b-13cdb300d96b)
