@@ -14,6 +14,6 @@ Only use the king checkbox when fighting the king. Their items have a significan
 
 ![image](https://github.com/user-attachments/assets/f9d6e2d9-01f7-4d02-91a8-6f65fa6d0512)
 
-![image](https://github.com/user-attachments/assets/43d550cc-1f18-42f2-9ffd-6d9d6c9cc3c0)
+![image](https://github.com/user-attachments/assets/8a38b249-9dc0-404a-ad21-bfd93ebf3e5f)
 
 ![image](https://github.com/user-attachments/assets/f5f41f84-8da8-42fb-ba6b-13cdb300d96b)
